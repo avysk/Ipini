@@ -6,7 +6,7 @@ let port = 6667
 let realname = "Harmless OCaml experiment"
 let nick = "ipini"
 let username = nick
-let channel = "#whatevers"
+let channel = "##whatevers"
 let password = "foo"
 let message = "Hello, world!  This is a test from ocaml-irc-client"
 
