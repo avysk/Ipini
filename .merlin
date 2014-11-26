@@ -3,3 +3,6 @@ S ./
 B _build/
 
 PKG lwt
+PKG irc-client
+
+EXT lwt
