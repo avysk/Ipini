@@ -1,0 +1,3 @@
+<*.ml>: package(lwt), package(irc-client.lwt)
+<ipini.native>: package(lwt.unix), package(irc-client.lwt)
+true: bin_annot
